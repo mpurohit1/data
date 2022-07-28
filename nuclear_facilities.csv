@@ -1,0 +1,5 @@
+_key,_id,inspection_date,state,objectid,name,geometry,latitude,longitude,long,lat,type,reactors,city,globalid
+1,nuclear_facilities/1,1610059312100,,1,,"{""type"":""Point"",""coordinates"":[-105.027868248,39.83815692200005]}",,,-105.027868248,39.83815692200005,,,,{B0980766-030D-4598-9C45-4CF4A0DCE45A}
+2,nuclear_facilities/2,1610059312101,,2,,"{""type"":""Point"",""coordinates"":[-114.04782830599999,37.10483569200005]}",,,-114.04782830599999,37.10483569200005,,,,{AFF91030-B1F7-4D81-B34F-3835A4E96A02}
+3,nuclear_facilities/3,1610059312102,,3,,"{""type"":""Point"",""coordinates"":[-111.041174953,42.16147996700005]}",,,-111.041174953,42.16147996700005,,,,{AA773C3B-ACFE-4475-9C4C-0E341F3728D1}
+4,nuclear_facilities/4,1610059312103,,4,,"{""type"":""Point"",""coordinates"":[-103.79787369499996,42.844810274000054]}",,,-103.79787369499996,42.844810274000054,,,,{39B72D9B-5231-421C-A5B5-CAD28CDC439B}
